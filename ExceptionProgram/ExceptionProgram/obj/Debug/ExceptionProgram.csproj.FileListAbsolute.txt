@@ -1,0 +1,7 @@
+G:\c#.netPrograms\ExceptionProgram\ExceptionProgram\bin\Debug\ExceptionProgram.exe.config
+G:\c#.netPrograms\ExceptionProgram\ExceptionProgram\bin\Debug\ExceptionProgram.exe
+G:\c#.netPrograms\ExceptionProgram\ExceptionProgram\bin\Debug\ExceptionProgram.pdb
+G:\c#.netPrograms\ExceptionProgram\ExceptionProgram\obj\Debug\ExceptionProgram.csprojAssemblyReference.cache
+G:\c#.netPrograms\ExceptionProgram\ExceptionProgram\obj\Debug\ExceptionProgram.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\ExceptionProgram\ExceptionProgram\obj\Debug\ExceptionProgram.exe
+G:\c#.netPrograms\ExceptionProgram\ExceptionProgram\obj\Debug\ExceptionProgram.pdb

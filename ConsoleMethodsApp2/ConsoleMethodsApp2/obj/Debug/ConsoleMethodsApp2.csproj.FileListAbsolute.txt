@@ -1,0 +1,7 @@
+G:\c#.netPrograms\ConsoleMethodsApp2\ConsoleMethodsApp2\obj\Debug\ConsoleMethodsApp2.csprojAssemblyReference.cache
+G:\c#.netPrograms\ConsoleMethodsApp2\ConsoleMethodsApp2\obj\Debug\ConsoleMethodsApp2.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\ConsoleMethodsApp2\ConsoleMethodsApp2\bin\Debug\ConsoleMethodsApp2.exe.config
+G:\c#.netPrograms\ConsoleMethodsApp2\ConsoleMethodsApp2\bin\Debug\ConsoleMethodsApp2.exe
+G:\c#.netPrograms\ConsoleMethodsApp2\ConsoleMethodsApp2\bin\Debug\ConsoleMethodsApp2.pdb
+G:\c#.netPrograms\ConsoleMethodsApp2\ConsoleMethodsApp2\obj\Debug\ConsoleMethodsApp2.exe
+G:\c#.netPrograms\ConsoleMethodsApp2\ConsoleMethodsApp2\obj\Debug\ConsoleMethodsApp2.pdb

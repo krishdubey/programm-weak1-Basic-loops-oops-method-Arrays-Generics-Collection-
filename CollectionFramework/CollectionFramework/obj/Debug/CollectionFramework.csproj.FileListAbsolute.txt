@@ -1,0 +1,7 @@
+G:\c#.netPrograms\CollectionFramework\CollectionFramework\bin\Debug\CollectionFramework.exe.config
+G:\c#.netPrograms\CollectionFramework\CollectionFramework\bin\Debug\CollectionFramework.exe
+G:\c#.netPrograms\CollectionFramework\CollectionFramework\bin\Debug\CollectionFramework.pdb
+G:\c#.netPrograms\CollectionFramework\CollectionFramework\obj\Debug\CollectionFramework.csprojAssemblyReference.cache
+G:\c#.netPrograms\CollectionFramework\CollectionFramework\obj\Debug\CollectionFramework.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\CollectionFramework\CollectionFramework\obj\Debug\CollectionFramework.exe
+G:\c#.netPrograms\CollectionFramework\CollectionFramework\obj\Debug\CollectionFramework.pdb

@@ -1,0 +1,7 @@
+G:\c#.netPrograms\FileInputOutput\FileInputOutput\bin\Debug\FileInputOutput.exe.config
+G:\c#.netPrograms\FileInputOutput\FileInputOutput\bin\Debug\FileInputOutput.exe
+G:\c#.netPrograms\FileInputOutput\FileInputOutput\bin\Debug\FileInputOutput.pdb
+G:\c#.netPrograms\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.csprojAssemblyReference.cache
+G:\c#.netPrograms\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.exe
+G:\c#.netPrograms\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.pdb

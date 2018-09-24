@@ -1,0 +1,7 @@
+G:\c#.netPrograms\ArrayProgramming\ArrayProgramming\bin\Debug\ArrayProgramming.exe.config
+G:\c#.netPrograms\ArrayProgramming\ArrayProgramming\bin\Debug\ArrayProgramming.exe
+G:\c#.netPrograms\ArrayProgramming\ArrayProgramming\bin\Debug\ArrayProgramming.pdb
+G:\c#.netPrograms\ArrayProgramming\ArrayProgramming\obj\Debug\ArrayProgramming.csprojAssemblyReference.cache
+G:\c#.netPrograms\ArrayProgramming\ArrayProgramming\obj\Debug\ArrayProgramming.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\ArrayProgramming\ArrayProgramming\obj\Debug\ArrayProgramming.exe
+G:\c#.netPrograms\ArrayProgramming\ArrayProgramming\obj\Debug\ArrayProgramming.pdb
